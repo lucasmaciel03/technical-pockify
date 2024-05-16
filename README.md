@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="frontend/src/assets/images/icons/logo/pockify-logo.jpeg" alt="Logo" width="200" height="200" style="border-radius: 20%">
+    <img src="src/assets/images/icons/logo/pockify-logo.jpeg" alt="Logo" width="200" height="200" style="border-radius: 20%">
   </a>
 
   <h1 align="center">Pockify</h1>
