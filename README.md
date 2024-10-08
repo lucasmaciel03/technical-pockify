@@ -19,8 +19,6 @@ Pockify is a sleek and user-friendly application designed to help you manage and
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 * [![React][React.js]][React-url]
 * [![Ionic][Ionic.com]][Ionic-url]
 * [![Node.js][Node.js]][Node-url]
